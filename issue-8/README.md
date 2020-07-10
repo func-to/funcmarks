@@ -2,19 +2,19 @@
 
 ### [HEY Email: How It Has Disrupted My Email Workflow - The Sweet Setup][1]
 
-![][HEY-Email-Hero-4.jpeg]
+![](HEY-Email-Hero-4.jpeg)
 
 ### [Email Is Not Broken - Kev Quirk][2]
 
-![][	hey-email-screening-1024x504.jpg]
+![](hey-email-screening-1024x504.jpg)
 
 ### [Replicating Hey.com Features in Regular Email Systems][3]
 
-![][	e34350c219.png]
+![](e34350c219.png)
 
 ### [Keen: Pinterest Alternative by Google][4]
 
-![][staykeen-default-preview.png]
+![](staykeen-default-preview.png)
 
 ### [Linear: The issue tracking tool you'll enjoy using][5]
 
